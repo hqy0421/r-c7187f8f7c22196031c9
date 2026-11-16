@@ -45,6 +45,11 @@
         show_root_full_path: true
         show_root_heading: true
 
+::: sklego.meta.prediction_ledger.PredictionLedger
+    options:
+        show_root_full_path: true
+        show_root_heading: true
+
 ::: sklego.meta.regression_outlier_detector.RegressionOutlierDetector
     options:
         show_root_full_path: true
